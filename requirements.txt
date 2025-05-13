@@ -1,0 +1,8 @@
+openai==1.77.0
+pyppeteer==2.0.0
+nest_asyncio==1.5.6
+beautifulsoup4==4.13.4
+python-dotenv==1.1.0
+certifi==2025.4.26
+pymongo[srv]==4.12.1
+pinecone[grpc]==6.0.2
