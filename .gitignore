@@ -1,0 +1,4 @@
+.idea
+.env
+.env.TOML
+*/**/__pycache__
